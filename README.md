@@ -1,9 +1,8 @@
-<center>
-    <div id="header" aling="center"> 
+
+  <div id="header" display="flex"> 
         <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="300"/>
         <P aling="center">Hi 👋, My name is Anderson yepes.</P>
-    </div>
-</center>
+   </div>
 
 
 
