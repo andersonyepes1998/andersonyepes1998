@@ -9,10 +9,7 @@
 </div>
 
  <h2 aling="center">⌨...MY TECHNOLOGIES...⌨</h2>
-<img src="https://user-images.githubusercontent.com/89555929/220975957-138f068d-d3f4-4851-9875-7a4801c5da74.png" />
-
-
-
+<img src="https://user-images.githubusercontent.com/89555929/220980879-048efd4c-e051-4adf-898f-664a4dc87d35.png" />
 
 
 
