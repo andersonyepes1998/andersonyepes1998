@@ -1,7 +1,7 @@
 
  
  <div id="header" aling="center"> 
-     <h1 aling="center">👨...Welcome to my profile...👨</h1>
+     <h1 aling="center">👨...WELCOME A MY PROFILE...👨</h1>
       <br>
     <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="300"/>
     <h1 aling="center">! Hi 👋 My name is 'Anderson yepes'.</h1>
