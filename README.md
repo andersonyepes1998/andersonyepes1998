@@ -8,7 +8,7 @@
         <h3 aling="center">I am a technology lover, I love innovation and teamwork, A passionate web Fullstack developer from Colombia. </h3>
 </div>
 
-<h2 aling="center">⌨...Welcome to my profile...⌨</h2>
+ <h2 aling="center">⌨...MY TECHNOLOGIES...⌨</h2>
 <img src="https://user-images.githubusercontent.com/89555929/220975957-138f068d-d3f4-4851-9875-7a4801c5da74.png" />
 
 
