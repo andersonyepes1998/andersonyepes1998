@@ -9,7 +9,7 @@
 </div>
 
 <h2 aling="center">⌨...Welcome to my profile...⌨</h2>
-![LOGOS](https://user-images.githubusercontent.com/89555929/220975957-138f068d-d3f4-4851-9875-7a4801c5da74.png)
+<img src="https://user-images.githubusercontent.com/89555929/220975957-138f068d-d3f4-4851-9875-7a4801c5da74.png" />
 
 
 
