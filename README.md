@@ -5,7 +5,7 @@
       <br>
     <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="300"/>
     <h1 aling="center">! Hi 👋 My name is 'Anderson yepes'.</h1>
-        <h3 aling="center">I am a technology lover, I love innovation and teamwork, A passionate web Fullstack developer from Colombia. </h3>
+        <p aling="center">I am a technology lover, I love innovation and teamwork, A passionate web Fullstack developer from Colombia. </p>
 </div>
 <br>
 <br>
