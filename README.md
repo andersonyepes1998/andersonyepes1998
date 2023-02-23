@@ -9,7 +9,9 @@
         In my portfolio you will be able to find great projects done in college, in order to show all my ideas and experience in the technology industry. I would like to work on your next projects and to exploit all my ideas with very good tools in the work to be done. </p>
 </div>
 <br>
-<br>
+
+<img src="https://user-images.githubusercontent.com/89555929/221028355-df668db5-7b77-498c-bf6f-54dbbf5fd76e.jpg" />
+
 <br>
  <h2 aling="center">⌨...MY TECHNOLOGIES...⌨</h2>
 <img src="https://user-images.githubusercontent.com/89555929/220980879-048efd4c-e051-4adf-898f-664a4dc87d35.png" />
