@@ -1,7 +1,7 @@
  
   <h1> 👨...WELCOME A MY PROFILE...👨</h1>
   <p align=center>
-   <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="650" height="350"/>
+   <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="450" height="250"/>
   </p>
     <h1 aling="center">! Hi 👋 My name is 'Anderson yepes'.</h1>
         <p aling="center">I am a technology lover, I love innovation and teamwork, A passionate Fullstack web developer.
@@ -11,6 +11,7 @@
 <p align=center>
   <img src="https://user-images.githubusercontent.com/89555929/221028355-df668db5-7b77-498c-bf6f-54dbbf5fd76e.jpg" width="850" height="550" />
 </p>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <br>
  <h2 aling="center">⌨...MY TECHNOLOGIES...⌨</h2>
