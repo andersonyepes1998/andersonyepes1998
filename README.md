@@ -1,5 +1,5 @@
  
-  <h1> 👨...WELCOME A MY PROFILE...👨</h1>
+  <h1> 👨...WELCOME TO MY PROFILE...👨</h1>
   <p align=center>
    <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="450" height="250"/>
   </p>
