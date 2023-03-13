@@ -1,7 +1,7 @@
  
   <h3> 👨...WELCOME TO MY PROFILE...👨</h3>
   <p align=center>
-   <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="450" height="250"/>
+   <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="400" height="250"/>
   </p>
     <h3 aling="center">! Hi 👋 My name is 'Anderson yepes'.</h3>
         <p aling="center">I am a technology lover, I love innovation and teamwork, A passionate Fullstack web developer.
