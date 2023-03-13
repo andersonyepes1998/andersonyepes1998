@@ -3,13 +3,14 @@
   <p align=center>
    <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="400" height="250"/>
   </p>
-  <h4 aling=center>!Hi 👋 My name is 'Anderson yepes'.</h4>
+  <h3 align=center> !Hi 👋 My name is 'Anderson yepes'.</h3>
+  
   <p aling="center">I am a technology lover, I love innovation and teamwork, A passionate Fullstack web developer.
   In my portfolio you will be able to find great projects done in college, in order to show all my ideas and experience in the technology industry. I would like         to work on your next projects and to exploit all my ideas with very good tools in the work to be done. </p>
 <br>
 
 <p align=center>
-  <img src="https://user-images.githubusercontent.com/89555929/221028355-df668db5-7b77-498c-bf6f-54dbbf5fd76e.jpg" width="850" height="550" />
+  <img src="https://user-images.githubusercontent.com/89555929/221028355-df668db5-7b77-498c-bf6f-54dbbf5fd76e.jpg" width="850" height="500" />
 </p>
 
 # 📚 Frameworks, Platforms and Libraries
