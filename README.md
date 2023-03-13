@@ -1,9 +1,9 @@
  
-  <h1> 👨...WELCOME TO MY PROFILE...👨</h1>
+  <h3> 👨...WELCOME TO MY PROFILE...👨</h3>
   <p align=center>
    <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="450" height="250"/>
   </p>
-    <h1 aling="center">! Hi 👋 My name is 'Anderson yepes'.</h1>
+    <h3 aling="center">! Hi 👋 My name is 'Anderson yepes'.</h3>
         <p aling="center">I am a technology lover, I love innovation and teamwork, A passionate Fullstack web developer.
         In my portfolio you will be able to find great projects done in college, in order to show all my ideas and experience in the technology industry. I would like         to work on your next projects and to exploit all my ideas with very good tools in the work to be done. </p>
 <br>
