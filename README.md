@@ -10,7 +10,7 @@
 <br>
 
 <p align=center>
-  <img src="https://user-images.githubusercontent.com/89555929/221028355-df668db5-7b77-498c-bf6f-54dbbf5fd76e.jpg" width="850" height="500" />
+  <img src="https://user-images.githubusercontent.com/89555929/221028355-df668db5-7b77-498c-bf6f-54dbbf5fd76e.jpg" width="850" height="400" />
 </p>
 
  <h3 align=center>📚 Frameworks, Platforms and Libraries</h3>
@@ -34,7 +34,8 @@
 </div>
   
 <h3 align=center> 💾 Databases </h3>
-  
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
+ 
+ <div align=center>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/>
+ </div>
