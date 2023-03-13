@@ -20,7 +20,7 @@
  ***
 
 <p align=center>
-  <img src="https://crehana-blog.imgix.net/media/filer_public/9a/70/9a70a096-b049-4280-b574-7cb3fe4574f5/full-stack.jpg" width="850" height="400" />
+  <img src="https://lh3.googleusercontent.com/u1sHXXXC_KnZSa79sbKirzLRbd5i_H5vGAc3L36rUmvQaB1UiHtY_pr5mU7uUEDNZ-snA8puvY3w20kYK_glnRLajs1qd_6vk9vp2sAr" width="850" height="400" />
 </p>
 
  
