@@ -20,7 +20,7 @@
  ***
 
 <p align=center>
-  <img src="https://user-images.githubusercontent.com/89555929/221028355-df668db5-7b77-498c-bf6f-54dbbf5fd76e.jpg" width="850" height="400" />
+  <img src="https://crehana-blog.imgix.net/media/filer_public/9a/70/9a70a096-b049-4280-b574-7cb3fe4574f5/full-stack.jpg" width="850" height="400" />
 </p>
 
  
