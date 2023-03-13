@@ -8,10 +8,22 @@
   <p aling="center">I am a technology lover, I love innovation and teamwork, A passionate Fullstack web developer.
   In my portfolio you will be able to find great projects done in college, in order to show all my ideas and experience in the technology industry. I would like         to work on your next projects and to exploit all my ideas with very good tools in the work to be done. </p>
 <br>
+<h3 align=center> 💬 Social </h3>
+
+<div align=center>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</div>
+
+ ***
 
 <p align=center>
   <img src="https://user-images.githubusercontent.com/89555929/221028355-df668db5-7b77-498c-bf6f-54dbbf5fd76e.jpg" width="850" height="400" />
 </p>
+
+ 
 
  <h3 align=center>📚 Frameworks, Platforms and Libraries</h3>
 
