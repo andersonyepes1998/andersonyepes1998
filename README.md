@@ -8,7 +8,7 @@
   <p aling="center">I am a technology lover, I love innovation and teamwork, A passionate Fullstack web developer.
   In my portfolio you will be able to find great projects done in college, in order to show all my ideas and experience in the technology industry. I would like         to work on your next projects and to exploit all my ideas with very good tools in the work to be done. </p>
   
-<h3 align=center> 💬 Social </h3>
+<h3 align=center> 💬 Social 💬</h3>
 
 <div align=center>
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/anderson-yepes-bedoya-830560230/"/>
@@ -25,7 +25,7 @@
 
  
 
- <h3 align=center>📚 Frameworks, Platforms and Libraries</h3>
+ <h3 align=center>📚 Frameworks, Platforms and Libraries 📚</h3>
 
 <div align=center>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
